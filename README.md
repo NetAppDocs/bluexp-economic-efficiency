@@ -1,1 +1,1 @@
-# new-repo-template
+# bluexp-economic-efficiency
