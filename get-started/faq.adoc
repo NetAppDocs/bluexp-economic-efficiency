@@ -1,0 +1,36 @@
+---
+sidebar: sidebar
+permalink: get-started/faq.html
+keywords: economic efficiency faq, economic efficiency frequently asked questions
+summary: This FAQ can help if you're just looking for a quick answer to a question.
+---
+
+= Frequently asked questions for the Economic efficiency service
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+This FAQ can help if you're just looking for a quick answer to a question.
+
+== Overview
+
+The following sections provide answers to some additional questions that you might come across as you use the NetApp BlueXP Economic efficiency service. 
+
+== Access to the Economic efficiency service
+
+
+*What's the BlueXP Economic efficiency URL?*
+
+The BlueXP Economic efficiency service uses local authentication and a URL specific to each environment.
+
+For the URL, in a browser, enter the <url>. 
+
+== Licensing
+
+*I am using the Evaluation license. How to I change to the full license?*
+
+You can easily change to a full license by obtaining the NetApp license file (NLF).
+
+
+

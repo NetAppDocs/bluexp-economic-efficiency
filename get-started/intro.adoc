@@ -1,0 +1,34 @@
+---
+sidebar: sidebar
+permalink: get-started/intro.html
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp
+summary: Astra Control is a Kubernetes application data lifecycle management service that simplifies operations for stateful applications. Easily protect, back up, and migrate Kubernetes workloads, and instantly create working application clones.
+
+---
+
+= Learn about the Economic efficiency service
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/concepts/
+
+[.lead]
+Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. The NetApp BlueXP Economic efficiency service can help you to do the following: 
+
+* Identify clusters that are showing low capacity,
+* Review clusters for current and forecasted capacity
+* Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
+
+The Capacity planning service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems). If you choose to add on capacity, a request with detailed recommendations is forwarded to you and to a NetApp representative. This request includes the details needed to make a capacity selection and order request easy. 
+
+The NetApp Capacity planning service can be accessed in BlueXP under the Economic efficiency category. 
+
+The Capacity planning service applies to AFF systems only (including unified AFF and All SAN Array). 
+
+== Benefits of the Capacity planning service
+
+The Capacity planning service offers the following benefits: 
+
+* Provides a simple process to obtain additional capacity 
+* Offers a trusted advisor and recommendations to address capacity issues in your environment
+* Reduces the time spent in planning for additional storage
+

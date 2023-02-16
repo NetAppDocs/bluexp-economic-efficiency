@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: use/capacity-remediate-overview.html
+keywords: economic efficiency remediate, economic efficiency, capacity planning
+summary: The NetApp BlueXP Economic efficiency Capacity planning service uses AI to forecast data growth to help in the planning process. 
+---
+
+= Review and remediate capacity issues
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+Capacity planning involves identifying low-capacity areas in your environment, both current and forecasted. The NetApp BlueXP Economic efficiency Capacity planning service uses AI to forecast data growth to help in the planning process. The Economic efficiency service identifies those low-capacity areas in your environment and provides recommendations on ways to resolve the issues. 
+
+Using the Economic efficiency service, you can accomplish these goals: 
+
+* Review capacity planning status
+* Add capacity
+* Tier cold data to cloud storage and free up storage
+* Select no action and set reminders to check again
+

@@ -1,0 +1,36 @@
+---
+sidebar: sidebar
+permalink: use/capacity-review-status.html
+keywords: economic efficiency remediate, economic efficiency, capacity planning
+summary: Get started with the BlueXP Economic efficiency by verifying support for your environment, network access, login and web browser.
+---
+
+= Review capacity planning status
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+If your clusters are currently below or forecasted to be below the threshold of 70% capacity, the Economic efficiency service identifies those as low-capacity resources and alerts you. Additionally, the Economic efficiency service provides recommendations on whether you should tier data or obtain additional capacity. 
+
+You can review the following types of data to assist in the capacity issue resolution. 
+
+* Platform
+* Country where asset is located 
+* Current and forecasted capacity by month
+* Capacity utilization and percent 
+* Latency trends
+* IOPS trends
+
+.Steps 
+
+. From the left BlueXP navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
+. Select *Evaluate Storage Options* for the asset.
+. Choose one of the options: 
++
+* *Add Capacity*: Continue with this procedure. (link)
+* *Tier cold data*: Continue with this procedure. (link)
+* *No action needed*: Continue with this procedure. (link) 
+
+
+
