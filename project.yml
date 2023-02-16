@@ -22,42 +22,4 @@ product-family:
   repo: cloud-manager-family
   sidebar_label: All BlueXP documentation
 
-homepage:
-  tiles:
-    - title: Get started with the Economic efficiency service
-      #image: ./media/outline_directions_run_black_18dp.png
-      links:
-        - title: Learn about the Economic efficiency service
-          url: /get-started/capacity-intro.html
-#        - title: What's new in the Economic efficiency service
-#          url: /release-notes/whats-new.html
-#        - title: Release notes
-#          url: /release-notes/rn_overview.html
-        - title: Quick start
-          url: /get-started/quick-start.html
-        - title: Prerequisites
-          url: /get-started/prerequisites.html
-        - title: Log in to the service on BlueXP
-          url: /get-started/capacity-login.html
-        - title: FAQ
-          url: /get-started/faq.html 
-    - title: Use the Economic efficiency service
-      links:
-        - title: Review and remediate capacity issues
-          url: /use/capacity-remediate-overview.html
-        - title: Review capacity status
-          url: /use/capacity-review-status.html
-        - title: Add capacity
-          url: /use/capacity-add.html
-        - title: Tier cold data to cloud storage
-          url: /use/capacity-tier-data.html
-        - title: Set reminders to check again
-          url: /use/capacity-reminders.html
-    - title: Blogs & community
-      links:
-        - title: NetApp Community
-          url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
-        - title: Cloud Tiering blog
-          url: https://bluexp.netapp.com/blog/topic/cloud-tiering
-        - title: Cloud webinars
-          url: https://bluexp.netapp.com/events
+
