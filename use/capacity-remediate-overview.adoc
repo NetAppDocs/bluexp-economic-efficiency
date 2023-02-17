@@ -15,8 +15,8 @@ Capacity planning involves identifying low-capacity areas in your environment, b
 
 Using the Economic efficiency service, you can accomplish these goals: 
 
-* Review capacity planning status
-* Add capacity
-* Tier cold data to cloud storage and free up storage
-* Select no action and set reminders to check again
+* link:../use/capacity-review-status.html[Review capacity planning status]
+* link:../use/capacity-add.html[Add capacity]
+* link:../use/capacity-tier-data.html[Tier cold data to cloud storage and free up storage]
+* link:../use/capacity-reminders.html[Select no action and set reminders to check again]
 

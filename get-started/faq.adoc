@@ -25,9 +25,9 @@ For the URL, in a browser, enter the <url>.
 
 == Licensing
 
-*I am using the Evaluation license. How to I change to the full license?*
+*Do you need a license to use the Economic efficiency service?*
 
-You can easily change to a full license by obtaining the NetApp license file (NLF).
+A NetApp License File (NLF) is not required.
 
 
 

@@ -50,5 +50,5 @@ A set of recommendations appears.
 +
 The Capacity Planning Status page appears. 
 
-. Review the status on the Capacity Planning Status page: 
+. Review the status on the Capacity Planning Status page. 
 

@@ -17,10 +17,10 @@ To log in to BlueXP, you can use your NetApp Support Site credentials or you can
 
 .Steps
 
-* Open a web browser and go to the BlueXP console.
+. Open a web browser and go to the BlueXP console.
 + 
 The NetApp BlueXP login page appears.
 
-* Log in to BlueXP. 
-* From the BlueXP left navigation, select *Governance* > *Economic efficiency*. 
+. Log in to BlueXP. 
+. From the BlueXP left navigation, select *Governance* > *Economic efficiency*. 
  

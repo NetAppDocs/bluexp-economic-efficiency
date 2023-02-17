@@ -28,9 +28,9 @@ You can review the following types of data to assist in the capacity issue resol
 . Select *Evaluate Storage Options* for the asset.
 . Choose one of the options: 
 +
-* *Add Capacity*: Continue with this procedure. (link)
-* *Tier cold data*: Continue with this procedure. (link)
-* *No action needed*: Continue with this procedure. (link) 
+* *Add Capacity*: Continue by link:../use/capacity-add.html[Adding capacity].
+* *Tier cold data*: Continue by link:../use/capacity-tier-data.html[Tiering cold data to cloud storage and free up storage].
+* *No action needed*: Continue by link:../use/capacity-reminders.html[Selecting no action and setting reminders to check again].
 
 
 
