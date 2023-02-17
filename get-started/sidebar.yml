@@ -7,10 +7,12 @@ entries:
 #   url: /release-notes/whats-new.html
 # - title: Release notes
 #   url: /release-notes/rn_overview.html
-  - title: Quick start
-    url: /get-started/quick-start.html
   - title: Prerequisites
     url: /get-started/prerequisites.html
+  - title: Quick start
+    url: /get-started/quick-start.html
+  - title: Set up the Economic efficiency service 
+    url: /get-started/capacity-setup.html 
   - title: Log in to the service on BlueXP
     url: /get-started/capacity-login.html
   - title: FAQ

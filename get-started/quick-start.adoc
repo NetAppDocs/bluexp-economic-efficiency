@@ -32,7 +32,6 @@ Ensure that your environment meets these requirements.
 Complete these setup tasks. 
 
 * link:../get-started/capacity-setup.html[Set up the Economic efficiency service^]
-* link:../get-started/capacity-configure.html[Perform additional optional configuration steps^]
 
 
 
@@ -48,9 +47,5 @@ After you finish setting up the service, here's what you might do next.
 * link:../use/capacity-tier.html[Tier cold data to cloud storage to free up storage^]
 * link:../use/capacity-reminders.html[Optionally, set reminders to check again^]
 
-
-== For more information 
-
-* https://docs.netapp.com/us-en/astra-automation/index.html[Astra Control API^]
 
 
