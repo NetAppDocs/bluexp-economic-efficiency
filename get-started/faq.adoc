@@ -13,9 +13,6 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 [.lead]
 This FAQ can help if you're just looking for a quick answer to a question.
 
-== Overview
-
-The following sections provide answers to some additional questions that you might come across as you use the NetApp BlueXP Economic efficiency service. 
 
 == Access to the Economic efficiency service
 
