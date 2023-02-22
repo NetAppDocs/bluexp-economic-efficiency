@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: get-started/capacity-login.html
-keywords: what are bluexp login, capacity planning log in
+keywords: bluexp login, capacity planning log in
 summary: Get started with the the Economic efficiency service by accessing the service in BlueXP.
 ---
 

@@ -42,9 +42,9 @@ Complete these setup tasks.
 After you finish setting up the service, here's what you might do next. 
 
 
-* link:../use/capacity-review.html[Review capacity planning status^]
+* link:../use/capacity-review-status.html[Review capacity planning status^]
 * link:../use/capacity-add.html[Add capacity^]
-* link:../use/capacity-tier.html[Tier cold data to cloud storage to free up storage^]
+* link:../use/capacity-tier-data.html[Tier cold data to cloud storage to free up storage^]
 * link:../use/capacity-reminders.html[Optionally, set reminders to check again^]
 
 

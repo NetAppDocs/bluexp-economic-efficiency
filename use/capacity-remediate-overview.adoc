@@ -11,7 +11,7 @@ summary: The NetApp BlueXP Economic efficiency Capacity planning service uses AI
 :imagesdir: ../media/use/
 
 [.lead]
-Capacity planning involves identifying low-capacity areas in your environment, both current and forecasted. The NetApp BlueXP Economic efficiency Capacity planning service uses AI to forecast data growth to help in the planning process. The Economic efficiency service identifies those low-capacity areas in your environment and provides recommendations on ways to resolve the issues. 
+Capacity planning involves identifying low-capacity areas in your environment, both current and forecasted. The NetApp BlueXP Economic efficiency service uses AI to forecast data growth to help in the planning process. The Economic efficiency service identifies those low-capacity areas in your environment and provides recommendations on ways to resolve the issues. 
 
 Using the Economic efficiency service, you can accomplish these goals: 
 
