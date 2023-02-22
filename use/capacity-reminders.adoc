@@ -24,7 +24,8 @@ Rather than add capacity or tier cold data, you can choose no action required at
 . Choose when you want to be notified again of a potential low-capacity issue: 30, 60, or 90 days. 
 . Select *Save*.  
 
-RESULT: After that time elapses, the service issues a notification in BlueXP to check the status. 
-//[what happens? Where does the alert show in UI?]
+.Result
+
+After that time elapses, the risk appears again in the list of risks.
 
 
