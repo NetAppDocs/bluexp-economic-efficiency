@@ -32,3 +32,6 @@ The Economic efficiency service offers the following benefits:
 * Offers a trusted advisor and recommendations to address capacity issues in your environment
 * Reduces the time spent in planning for additional storage
 
+== Cost
+
+NetApp doesn’t charge you for using the service, but if you decide to tier cold data to cloud storge, you’ll need to check your cloud provider for applicable charges.

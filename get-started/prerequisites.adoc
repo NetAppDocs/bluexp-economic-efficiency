@@ -26,6 +26,4 @@ Refer to the BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/refe
 * If you plan on tiering cold data to cloud storage, ensure that the cluster is eligible per the license. 
 
 
-== Supported web browsers
 
-The BlueXP Economic efficiency service supports recent versions of Firefox, Safari, and Chrome with a minimum resolution of 1280 x 720.

@@ -19,9 +19,8 @@ This FAQ can help if you're just looking for a quick answer to a question.
 
 *What's the BlueXP Economic efficiency URL?*
 
-The BlueXP Economic efficiency service uses local authentication and a URL specific to each environment.
 
-For the URL, in a browser, enter the <url>. 
+For the URL, in a browser, enter: https://console.bluexp.netapp.com/ to access the BlueXP console. 
 
 == Licensing
 
