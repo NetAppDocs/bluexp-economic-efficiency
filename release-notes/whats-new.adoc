@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: release-notes/whats-new.html
 keywords: economic efficiency faq, economic efficiency frequently asked questions
-summary: The Economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems).
+summary: The Economic efficiency service identifies clusters with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems).
 ---
 
 = What's new
@@ -14,8 +14,8 @@ summary: The Economic efficiency service identifies clusters with current or for
 Learn what’s new in the Economic efficiency service.
 
 
-== 5 April 2023 
+== 2 April 2023 
 
-The new Economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems).
+The new Economic efficiency service identifies clusters with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems).
 
 link:../get-started/intro.html[Learn more about this new service]. 

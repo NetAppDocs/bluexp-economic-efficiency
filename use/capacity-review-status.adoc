@@ -24,7 +24,7 @@ You can review the following types of data to assist in the capacity issue resol
 
 .Steps 
 
-. From the left BlueXP navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
+. From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
 . Select *Evaluate Storage Options* for the asset.
 . Choose one of the options: 
 +

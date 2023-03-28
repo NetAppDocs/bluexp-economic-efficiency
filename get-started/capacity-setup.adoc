@@ -14,8 +14,6 @@ summary: To use the Economic efficiency service, perform a few steps to set it u
 To use the Economic efficiency service, perform a few steps to set it up.  
 
 
-Setting up the service involves the following steps: 
-
 * Review link:../get-started/prerequisites.html[prerequisites] to ensure that your environment is ready
 * Create a Connector in BlueXP
 * Discover the cluster in BlueXP
@@ -26,7 +24,7 @@ Similarly, you can discover the cluster ahead of time using BlueXP or during the
 
 
 == Create a Connector in BlueXP
-A BlueXP Connector includes credentials to NetApp ONTAP machines so that the Operational resiliency service can advise on security risks and execute remediations.
+A BlueXP Connector includes credentials to NetApp ONTAP machines.
 
 
 To create a Connector in BlueXP before using the service, refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a connector]. 
@@ -34,5 +32,7 @@ To create a Connector in BlueXP before using the service, refer to the BlueXP do
 
 == Discover the cluster in BlueXP 
 
-Part of the setup involves identifying the cluster name, IP, user name, and password within BlueXP. For instructions, refer to https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html[Discover on-premises ONTAP clusters]. 
+Part of the setup involves identifying the cluster name, IP, user name, and password within BlueXP. 
+
+For instructions, refer to https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html[Discover on-premises ONTAP clusters]. 
 

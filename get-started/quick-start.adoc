@@ -18,10 +18,7 @@ Here's an overview of the steps needed to get started with the NetApp BlueXP Eco
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png[One] Review prerequisites 
 
 [role="quick-margin-para"]
-Ensure that your environment meets these requirements.
-
-
-* link:../get-started/prerequisites.html[Ensure your environment meets these requirements^]
+link:../get-started/prerequisites.html[Ensure your environment meets these requirements^]
  
 
 
@@ -29,9 +26,7 @@ Ensure that your environment meets these requirements.
 
 
 [role="quick-margin-para"]
-Complete these setup tasks. 
-
-* link:../get-started/capacity-setup.html[Set up the Economic efficiency service^]
+link:../get-started/capacity-setup.html[Set up the Economic efficiency service^]
 
 
 
@@ -41,7 +36,7 @@ Complete these setup tasks.
 [role="quick-margin-para"]
 After you finish setting up the service, here's what you might do next. 
 
-
+[role="quick-margin-list"]
 * link:../use/capacity-review-status.html[Review capacity planning status^]
 * link:../use/capacity-add.html[Add capacity^]
 * link:../use/capacity-tier-data.html[Tier cold data to cloud storage to free up storage^]

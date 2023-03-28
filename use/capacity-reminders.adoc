@@ -17,7 +17,7 @@ Rather than add capacity or tier cold data, you can choose no action required at
 
 .Steps 
 
-. From the left BlueXP navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
+. From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
 . Select *Evaluate Storage Options* for the asset.
 . Select *No action needed*.
 

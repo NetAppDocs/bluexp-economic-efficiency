@@ -24,7 +24,7 @@ The cloud tiering process includes these processes:
 
 .Steps 
 
-. From the left BlueXP navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
+. From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
 . Select *Evaluate Storage Options* for the asset.
 . Select *Tier Cold Data*.
 
@@ -48,5 +48,5 @@ After deploying a Connector, BlueXP Cloud Tiering next discovers the cluster, if
 
 . After the cluster is discovered, set up the tiering.
 +
-For details about tiering, refer to https://docs.netapp.com/us-en/cloud-manager-tiering/index.html[Cloud Tiering service documentation].
+For details about tiering, refer to https://docs.netapp.com/us-en/cloud-manager-tiering/index.html[Cloud Tiering service documentation^].
 

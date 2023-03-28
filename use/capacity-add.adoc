@@ -20,7 +20,7 @@ You can easily submit the recommendation as a request for a quote or a request f
 
 .Steps 
 
-. From the left BlueXP navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
+. From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Capacity planning*. 
 . Select *Evaluate Storage Options* for the asset.
 . Select *Add Capacity*.
 +
@@ -33,7 +33,7 @@ The Define Capacity Requirements page shows a current and projected capacity for
 
 . Select one of the options on the right: 
 +
-* *Recommend add-on storage based on forecasted growth* and optionally add a buffer percentage
+* *Recommend add-on storage based on forecasted growth* and optionally add a buffer percentage.
 * *Recommend add-on storage based on custom data growth* and enter the total add-on capacity that you want, not what is recommended. 
 
 . Select *Continue*. 
