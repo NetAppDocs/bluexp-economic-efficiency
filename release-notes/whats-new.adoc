@@ -13,9 +13,11 @@ summary: The Economic efficiency service identifies clusters with current or for
 [.lead]
 Learn what’s new in the Economic efficiency service.
 
-
+//tag::whats-new[]
 == 2 April 2023 
 
-The new Economic efficiency service identifies clusters with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems).
+The new Economic efficiency service identifies clusters with current or forecasted low capacity and provides recommendations on data tiering or additional capacity for on-premises AFF systems.
 
-link:../get-started/intro.html[Learn more about this new service]. 
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html[Learn more about this new service]. 
+//include 3 most recent releases
+//end::whats-new[]
