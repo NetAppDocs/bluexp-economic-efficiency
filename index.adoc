@@ -2,10 +2,9 @@
 layout: landing-page
 sidebar: sidebar
 permalink: index.html
-# lead: Use only if indexpage.lead is not present in _index.yml
-summary: "summary, used for search results"
+summary: "Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. The NetApp BlueXP Economic efficiency service can help you identify clusters that are showing low capacity, review clusters for current and forecasted capacity, and review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation."
 ---
-= replace with repository name
+= Economic efficiency service
 :hardbreaks:
 :nofooter:
 :icons: font

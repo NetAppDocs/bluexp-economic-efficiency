@@ -1,0 +1,32 @@
+---
+sidebar: sidebar
+permalink: get-started/faq.html
+keywords: economic efficiency faq, economic efficiency frequently asked questions
+summary: This FAQ can help if you're just looking for a quick answer to a question.
+---
+
+= Frequently asked questions for the Economic efficiency service
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+This FAQ can help if you're just looking for a quick answer to a question.
+
+
+== Access to the Economic efficiency service
+
+
+*What's the BlueXP Economic efficiency URL?*
+
+
+For the URL, in a browser, enter: https://console.bluexp.netapp.com/ to access the BlueXP console. 
+
+== Licensing
+
+*Do you need a license to use the Economic efficiency service?*
+
+A NetApp License File (NLF) is not required.
+
+
+
