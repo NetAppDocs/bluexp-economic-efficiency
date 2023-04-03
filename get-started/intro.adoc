@@ -1,0 +1,37 @@
+---
+sidebar: sidebar
+permalink: get-started/intro.html
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp
+summary: The Capacity planning service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems).
+
+---
+
+= Learn about the Economic efficiency service
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/concepts/
+
+[.lead]
+Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. The NetApp BlueXP Economic efficiency service can help you accomplish the following:  
+
+* Identify clusters that are showing low capacity.
+* Review clusters for current and forecasted capacity.
+* Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
+
+The Economic efficiency service identifies clusters with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems). If you choose to add capacity, a request with detailed recommendations is forwarded to you and to a NetApp representative. This request includes the details needed to make a capacity selection and order request easy. 
+
+The service can be accessed in BlueXP under the *Governance* category. 
+
+The Economic efficiency service applies to on-premises AFF systems only (including unified AFF and all SAN array systems). 
+
+== Benefits of the Economic efficiency service
+
+The Economic efficiency service offers the following benefits: 
+
+* Provides a simple process to obtain additional capacity 
+* Offers a trusted advisor and recommendations to address capacity issues in your environment
+* Reduces the time spent in planning for additional storage
+
+== Cost
+
+NetApp doesn’t charge you for using the service. If you decide to tier cold data to cloud storage, you’ll need to check your cloud provider for applicable charges.

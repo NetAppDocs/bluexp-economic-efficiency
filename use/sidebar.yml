@@ -1,0 +1,13 @@
+section: use
+title: Use the Economic efficiency service
+entries:
+  - title: Review and remediate capacity issues
+    url: /use/capacity-remediate-overview.html
+  - title: Review capacity status
+    url: /use/capacity-review-status.html
+  - title: Add capacity
+    url: /use/capacity-add.html
+  - title: Tier cold data to cloud storage
+    url: /use/capacity-tier-data.html
+  - title: Set reminders to check again
+    url: /use/capacity-reminders.html
