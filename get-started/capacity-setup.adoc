@@ -2,23 +2,23 @@
 sidebar: sidebar
 permalink: get-started/capacity-setup.html
 keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity
-summary: To use the Economic efficiency service, perform a few steps to set it up.    
+summary: To use the economic efficiency service, perform a few steps to set it up.    
 ---
 
-= Set up the Economic efficiency service
+= Set up the economic efficiency service
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
 
 [.lead]
-To use the Economic efficiency service, perform a few steps to set it up.  
+To use the economic efficiency service, perform a few steps to set it up.  
 
 
 * Review link:../get-started/prerequisites.html[prerequisites] to ensure that your environment is ready.
 * Create a Connector in BlueXP.
 * Discover the cluster in BlueXP.
 
-You can create a Connector directly in BlueXP and use that Connector later in the Economic efficiency service. Or, you can create the Connector in the middle of the risk remediation process. 
+You can create a Connector directly in BlueXP and use that Connector later in the economic efficiency service. Or, you can create the Connector in the middle of the risk remediation process. 
 
 Similarly, you can discover the cluster ahead of time using BlueXP or during the risk remediation process. 
 

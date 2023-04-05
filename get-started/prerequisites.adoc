@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: get-started/prerequisites.html
 keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites
-summary: Get started with the BlueXP Economic efficiency by verifying support for your environment, network access, login and web browser.
+summary: Get started with the BlueXP economic efficiency by verifying support for your environment, network access, login and web browser.
 ---
 
 = Economic efficiency prerequisites
@@ -13,7 +13,7 @@ summary: Get started with the BlueXP Economic efficiency by verifying support fo
 [.lead]
 Get started by verifying the readiness of your operational environment, login, network access, and web browser.
 
-To use the Economic efficiency service, you should ensure that your environment meets all requirements. 
+To use the economic efficiency service, you should ensure that your environment meets all requirements. 
 
 * Your environment must meet all BlueXP requirements including a login and network access from a web browser. 
 +

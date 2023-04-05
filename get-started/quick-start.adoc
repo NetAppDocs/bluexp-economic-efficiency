@@ -2,16 +2,16 @@
 sidebar: sidebar
 permalink: get-started/quick-start.html
 keywords: how to get started with bluexp economic efficiency, economic efficiency quick start, capacity planning
-summary: Get started with the NetApp BlueXP Economic efficiency service in a few steps.
+summary: Get started with the NetApp BlueXP economic efficiency service in a few steps.
 ---
 
-= Quick start for the Economic efficiency service
+= Quick start for the economic efficiency service
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
 
 [.lead]
-Here's an overview of the steps needed to get started with the NetApp BlueXP Economic efficiency service. The links within each step take you to a page that provides more details.
+Here's an overview of the steps needed to get started with the NetApp BlueXP economic efficiency service. The links within each step take you to a page that provides more details.
 
 
 
@@ -22,7 +22,7 @@ link:../get-started/prerequisites.html[Ensure your environment meets these requi
  
 
 
-.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png[Two] Set up the Economic efficiency service
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png[Two] Set up the economic efficiency service
 
 
 [role="quick-margin-para"]
