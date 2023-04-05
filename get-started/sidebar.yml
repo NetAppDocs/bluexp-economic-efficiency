@@ -1,9 +1,9 @@
 section: get-started
 title: Get started
 entries:
-  - title: Learn about the Economic efficiency service
+  - title: Learn about the economic efficiency service
     url: /get-started/intro.html
-# - title: What's new in the Economic efficiency service
+# - title: What's new in the economic efficiency service
 #   url: /release-notes/whats-new.html
 # - title: Release notes
 #   url: /release-notes/rn_overview.html
@@ -11,7 +11,7 @@ entries:
     url: /get-started/prerequisites.html
   - title: Quick start
     url: /get-started/quick-start.html
-  - title: Set up the Economic efficiency service 
+  - title: Set up the economic efficiency service 
     url: /get-started/capacity-setup.html 
   - title: Access the service on BlueXP
     url: /get-started/capacity-login.html

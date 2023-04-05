@@ -6,27 +6,27 @@ summary: The Capacity planning service identifies clusters with current or forec
 
 ---
 
-= Learn about the Economic efficiency service
+= Learn about the economic efficiency service
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/concepts/
 
 [.lead]
-Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. The NetApp BlueXP Economic efficiency service can help you accomplish the following:  
+Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. The NetApp BlueXP economic efficiency service can help you accomplish the following:  
 
 * Identify clusters that are showing low capacity.
 * Review clusters for current and forecasted capacity.
 * Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
 
-The Economic efficiency service identifies clusters with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems). If you choose to add capacity, a request with detailed recommendations is forwarded to you and to a NetApp representative. This request includes the details needed to make a capacity selection and order request easy. 
+The economic efficiency service identifies clusters with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems). If you choose to add capacity, a request with detailed recommendations is forwarded to you and to a NetApp representative. This request includes the details needed to make a capacity selection and order request easy. 
 
 The service can be accessed in BlueXP under the *Governance* category. 
 
-The Economic efficiency service applies to on-premises AFF systems only (including unified AFF and all SAN array systems). 
+The economic efficiency service applies to on-premises AFF systems only (including unified AFF and all SAN array systems). 
 
-== Benefits of the Economic efficiency service
+== Benefits of the economic efficiency service
 
-The Economic efficiency service offers the following benefits: 
+The economic efficiency service offers the following benefits: 
 
 * Provides a simple process to obtain additional capacity 
 * Offers a trusted advisor and recommendations to address capacity issues in your environment

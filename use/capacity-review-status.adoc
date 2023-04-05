@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: use/capacity-review-status.html
 keywords: economic efficiency remediate, economic efficiency, capacity planning
-summary: Get started with the BlueXP Economic efficiency by verifying support for your environment, network access, login and web browser.
+summary: If your clusters are currently below or forecasted to be below the threshold of 70% capacity, the economic efficiency service identifies those as low-capacity resources and alerts you.
 ---
 
 = Review capacity planning status
@@ -11,7 +11,7 @@ summary: Get started with the BlueXP Economic efficiency by verifying support fo
 :imagesdir: ../media/use/
 
 [.lead]
-If your clusters are currently below or forecasted to be below the threshold of 70% capacity, the Economic efficiency service identifies those as low-capacity resources and alerts you. Additionally, the Economic efficiency service provides recommendations on whether you should tier data or obtain additional capacity. 
+If your clusters are currently below or forecasted to be below the threshold of 70% capacity, the economic efficiency service identifies those as low-capacity resources and alerts you. Additionally, the economic efficiency service provides recommendations on whether you should tier data or obtain additional capacity. 
 
 You can review the following types of data to assist in the capacity issue resolution. 
 
