@@ -17,7 +17,7 @@ To use the economic efficiency service, you should ensure that your environment 
 
 * Your environment must meet all BlueXP requirements including a login and network access from a web browser. 
 +
-Refer to the BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html[Getting started checklist^].
+Refer to the https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html[BlueXP Quick start^] and https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html[BlueXP networking information^].
 
 * You need to have access credentials to the clusters. 
 
