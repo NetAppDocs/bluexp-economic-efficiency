@@ -14,11 +14,11 @@ summary: The Capacity planning service identifies clusters with current or forec
 [.lead]
 Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. The NetApp BlueXP economic efficiency service can help you accomplish the following:  
 
-* Identify clusters that are showing low capacity.
-* Review clusters for current and forecasted capacity.
+* Identify storage assets in your environment that are showing low capacity.
+* Review assets for current and forecasted capacity.
 * Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
 
-The economic efficiency service identifies clusters with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems). If you choose to add capacity, a request with detailed recommendations is forwarded to you and to a NetApp representative. This request includes the details needed to make a capacity selection and order request easy. 
+The economic efficiency service identifies storage assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems). If you choose to add capacity, a request with detailed recommendations is forwarded to you and to a NetApp representative. This request includes the details needed to make a capacity selection and order request easy. 
 
 The service can be accessed in BlueXP under the *Governance* category. 
 
