@@ -11,7 +11,7 @@ summary: The economic efficiency service provides recommendations for AFF system
 :imagesdir: ../media/use/
 
 [.lead]
-The economic efficiency service provides recommendations for AFF systems based on forecasted data growth. You can accept the forecast or enter your own forecast. Based on this, the service presents recommendations that satisfy the capacity growth projections and are most optimal for the asset configuration. 
+BlueXP economic efficiency provides recommendations for AFF systems based on forecasted data growth. You can accept the forecast or enter your own forecast. Based on this, the service presents recommendations that satisfy the capacity growth projections and are most optimal for the asset configuration. 
 
 One of the recommendations might be to add capacity by adding shelves to your existing serial number. 
 

@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: use/capacity-tier-data.html
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity
-summary: The economic efficiency service provides recommendations based on forecasted data growth. You can accept the forecast or enter your own forecast. Based on this, the service presents recommendations that satisfy the projected capacity growth and are most optimal for the asset configuration. One of the recommendations might be to tier cold data to cloud storage to free up capacity. This recommendation initiates the connection to NetApp Cloud Tiering, another BlueXP service.  
+summary: The BlueXP economic efficiency service provides recommendations based on forecasted data growth. You can accept the forecast or enter your own forecast. Based on this, the service presents recommendations that satisfy the projected capacity growth and are most optimal for the asset configuration. One of the recommendations might be to tier cold data to cloud storage to free up capacity. This recommendation initiates the connection to NetApp Cloud Tiering, another BlueXP service.  
 ---
 
 = Tier cold data to cloud storage and free up storage
@@ -11,9 +11,9 @@ summary: The economic efficiency service provides recommendations based on forec
 :imagesdir: ../media/use/
 
 [.lead]
-The economic efficiency service provides recommendations based on forecasted data growth. You can accept the forecast or enter your own forecast. Based on this, the service presents recommendations that satisfy the projected capacity growth and are most optimal for the storage asset configuration. One of the recommendations might be to tier cold data to cloud storage to free up capacity. This recommendation initiates the connection to NetApp Cloud Tiering, another BlueXP service. 
+BlueXP economic efficiency provides recommendations based on forecasted data growth. You can accept the forecast or enter your own forecast. Based on this, the service presents recommendations that satisfy the projected capacity growth and are most optimal for the storage asset configuration. One of the recommendations might be to tier cold data to cloud storage to free up capacity. This recommendation initiates the connection to NetApp BlueXP tiering (Cloud Tiering), another BlueXP service. 
 
-From there, you can tier the data and easily return to the economic efficiency service to take action on other systems.  
+From there, you can tier the data and easily return to BlueXP economic efficiency to take action on other systems.  
 
 The cloud tiering process includes these processes: 
 
@@ -35,7 +35,7 @@ The cloud tiering process includes these processes:
 * If the service needs to discover the cluster, refer to https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html[Discover on-premises ONTAP clusters^]. Otherwise, if the cluster has already been discovered, the option to discover the cluster does not appear. 
 
 +
-The economic efficiency service initiates the connection to the Cloud Tiering service, another NetApp BlueXP service.
+BlueXP economic efficiency initiates the connection to the BlueXP tiering service.
 
 . Select *Add Connector*.
 
@@ -44,9 +44,9 @@ The economic efficiency service initiates the connection to the Cloud Tiering se
 
 . Select *Continue* or *Skip to Deployment*. 
 +
-After deploying a Connector, BlueXP Cloud Tiering next discovers the cluster, if not already discovered.
+After deploying a Connector, BlueXP tiering discovers the cluster, if not already discovered.
 
 . After the cluster is discovered, set up the tiering.
 +
-For details about tiering, refer to https://docs.netapp.com/us-en/cloud-manager-tiering/index.html[Cloud Tiering service documentation^].
+For details about tiering, refer to https://docs.netapp.com/us-en/cloud-manager-tiering/index.html[BlueXP tiering documentation^].
 

@@ -1,5 +1,5 @@
 settings:
-  name: "Economic efficiency"
+  name: "BlueXP economic efficiency"
   platform: cloud
   internal:
     pdf_enabled: true
@@ -9,7 +9,7 @@ settings:
 
 sidebar:
   entries:
-    - title: Economic efficiency docs
+    - title: BlueXP economic efficiency docs
       url: /index.html
     - section: release-notes
     - section: get-started
