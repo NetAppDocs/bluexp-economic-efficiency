@@ -2,10 +2,10 @@
 sidebar: sidebar
 permalink: get-started/capacity-login.html
 keywords: bluexp login, capacity planning log in
-summary: Get started with the economic efficiency service by accessing the service in BlueXP.
+summary: Get started with BlueXP economic efficiency by accessing the service in BlueXP.
 ---
 
-= Access the economic efficiency service on BlueXP
+= Access BlueXP economic efficiency
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
