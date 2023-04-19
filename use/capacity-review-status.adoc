@@ -11,7 +11,7 @@ summary: If your clusters are currently below or forecasted to be below the thre
 :imagesdir: ../media/use/
 
 [.lead]
-If storage assets in your environment are currently below or forecasted to be below the threshold of 970% capacity, the economic efficiency service identifies those as low-capacity resources and alerts you. Additionally, the economic efficiency service provides recommendations on whether you should tier data or obtain additional capacity. 
+If storage assets in your environment are currently below or forecasted to be below the threshold of 90% capacity, the economic efficiency service identifies those as low-capacity resources and alerts you. Additionally, the economic efficiency service provides recommendations on whether you should tier data or obtain additional capacity. 
 
 You can review the following types of data to assist in the capacity issue resolution. 
 
