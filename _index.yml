@@ -1,12 +1,12 @@
 indexpage:
-  lead: Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. The NetApp BlueXP economic efficiency service can help you identify clusters that are showing low capacity, review clusters for current and forecasted capacity, and review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
+  lead: Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. BlueXP economic efficiency can help you identify clusters that are showing low capacity, review clusters for current and forecasted capacity, and review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
   tiles:
   - title: Get started
     #image: ./media/outline_directions_run_black_18dp.png
     links:
-    - title: Learn about the economic efficiency service
+    - title: Learn about BlueXP economic efficiency
       url: /get-started/intro.html
-    - title: What's new in the economic efficiency service
+    - title: What's new in BlueXP economic efficiency
       url: /release-notes/whats-new.html
 #   - title: Release notes
 #     url: /release-notes/rn_overview.html
@@ -14,11 +14,11 @@ indexpage:
       url: /get-started/quick-start.html
     - title: Prerequisites
       url: /get-started/prerequisites.html
-    - title: Log in to the service on BlueXP
+    - title: Log in to BlueXP economic efficiency
       url: /get-started/capacity-login.html
     - title: FAQ
       url: /get-started/faq.html 
-  - title: Use the economic efficiency service
+  - title: Use BlueXP economic efficiency
     links:
     - title: Review and remediate capacity issues
       url: /use/capacity-remediate-overview.html

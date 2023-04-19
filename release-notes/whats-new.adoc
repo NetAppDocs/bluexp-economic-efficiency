@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: release-notes/whats-new.html
-keywords: economic efficiency faq, economic efficiency frequently asked questions
-summary: The economic efficiency service identifies assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems).
+keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions
+summary: BlueXP economic efficiency identifies assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems).
 ---
 
 = What's new
@@ -11,13 +11,13 @@ summary: The economic efficiency service identifies assets with current or forec
 :imagesdir: ../media/
 
 [.lead]
-Learn what’s new in the economic efficiency service.
+Learn what’s new in BlueXP economic efficiency.
 
 //tag::whats-new[]
 == 02 April 2023 
 
-The new economic efficiency service identifies storage assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity for on-premises AFF systems.
+The new BlueXP economic efficiency service identifies storage assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity for on-premises AFF systems.
 
-link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html[Learn more about this new service]. 
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html[Learn more about BlueXP economic efficiency]. 
 //include 3 most recent releases
 //end::whats-new[]
