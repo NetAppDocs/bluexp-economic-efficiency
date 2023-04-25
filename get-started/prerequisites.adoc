@@ -13,7 +13,7 @@ summary: Get started with BlueXP economic efficiency by verifying support for yo
 [.lead]
 Get started by verifying the readiness of your operational environment, login, network access, and web browser.
 
-To use Blue economic efficiency, you should ensure that your environment meets all requirements. 
+To use BlueXP economic efficiency, you should ensure that your environment meets all requirements. 
 
 * Your environment must meet all BlueXP requirements including a login and network access from a web browser. 
 +
