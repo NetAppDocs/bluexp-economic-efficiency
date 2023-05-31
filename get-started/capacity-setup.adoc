@@ -27,12 +27,12 @@ Similarly, you can discover the cluster ahead of time using BlueXP or during the
 A BlueXP Connector includes credentials to NetApp ONTAP machines.
 
 
-To create a Connector in BlueXP before using the service, refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a connector^]. 
+To create a Connector in BlueXP before using the service, refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html[how to create a connector^]. 
 
 
 == Discover the cluster in BlueXP 
 
 Part of the setup involves identifying the cluster name, IP, user name, and password within BlueXP. 
 
-For instructions before using the service, refer to https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html[Discover on-premises ONTAP clusters^]. 
+For instructions before using the service, refer to https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html[Discover on-premises ONTAP clusters^]. 
 
