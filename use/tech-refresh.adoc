@@ -22,6 +22,8 @@ The assessment includes the following steps:
 .Steps 
 
 . From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
++
+image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates tab]
 . Look at the *Tech refresh candidates* tab, which lists all the working environments that might benefit from a tech refresh. 
 . Select the working environment on which you want to obtain an assessment. 
 . On the right, select *Evaluate refresh*. 
