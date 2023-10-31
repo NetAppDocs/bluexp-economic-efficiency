@@ -19,6 +19,11 @@ The assessment includes the following steps:
 * Specify your requirements regarding environments, workload types, capacity, performance, and budget. 
 * View the recommendations regarding appropriate products and cloud services that might improve performance in your environment. 
 
+Systems are considered candidates for a tech refresh based on the following: 
+
+* End of the Tech Support contract approaching
+* End of the hardware lifecycle approaching
+
 .Steps 
 
 . From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
@@ -45,5 +50,17 @@ A web page shows you the options you can choose from to contact a NetApp Sales r
 
 
 
+== View technology refresh assessments already taken
 
+You might want to review the technology refresh assessments that you already took and review the recommendations again.
+
+.Steps
+
+. From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
+
+. Select the *Tech refresh candidates* tab, which lists all the systems on which you took a technology refresh assessment. Then, select *View action* on the row to see the assessments and recommendations for that system. 
++ 
+Alternatively, select the row on which "Action taken" appears and select *View* to see that system's details. 
+
+. View the refresh recommendations.  
 
