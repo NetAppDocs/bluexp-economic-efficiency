@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: get-started/intro.html
-keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity
 summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems).
 
 ---
@@ -20,7 +20,7 @@ Capacity planning is essential to avoiding unnecessary downtime due to low capac
 * Review a list of systems that are nearing end of life or other lifecycle events. 
 * Take an assessment of your current working environment and obtain recommendations on technology refresh options that meet your workload, capacity, performance, and budget requirements. 
 
-image:economic-efficiency-diagram-overview.png[Diagram showing the technology refresh process in BlueXP economic efficiency]
+image:economic-efficiency-diagram-overview.png[Diagram of the technology refresh process in BlueXP economic efficiency]
 
 BlueXP economic efficiency identifies storage assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems). If you choose to add capacity, a request with detailed recommendations is forwarded to you and to a NetApp representative. This request includes the details needed to make a capacity selection and order request easy. 
 
