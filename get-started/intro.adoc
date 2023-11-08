@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: get-started/intro.html
 keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity
-summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems).
+summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems). The service also provides technology refresh recommendations on systems that are nearing end of life. 
 
 ---
 
