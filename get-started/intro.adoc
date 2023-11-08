@@ -17,6 +17,7 @@ Capacity planning is essential to avoiding unnecessary downtime due to low capac
 * Identify storage assets in your environment that are showing low capacity.
 * Review assets for current and forecasted capacity.
 * Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
+* Review a list of systems that are nearing end of life or other lifecycle events. 
 * Take an assessment of your current working environment and obtain recommendations on technology refresh options that meet your workload, capacity, performance, and budget requirements. 
 
 image:economic-efficiency-diagram-overview.png[Diagram showing the technology refresh process in BlueXP economic efficiency]
@@ -31,6 +32,7 @@ BlueXP economic efficiency applies to on-premises AFF systems only (including un
 
 BlueXP economic efficiency offers the following benefits: 
 
+* Identifies systems that are approaching lifecycle events to help you plan for a technology refresh
 * Provides a simple process to obtain additional capacity 
 * Offers a trusted advisor and recommendations to address capacity issues in your environment
 * Reduces the time spent in planning for additional storage
