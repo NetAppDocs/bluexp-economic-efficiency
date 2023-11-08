@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: get-started/intro.html
-keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh
 summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems).
 
 ---
@@ -9,7 +9,7 @@ summary: The BlueXP economic efficiency service identifies clusters with current
 = Learn about BlueXP economic efficiency
 :hardbreaks:
 :icons: font
-:imagesdir: ../media/concepts/
+:imagesdir: ../media/get-started/
 
 [.lead]
 Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. BlueXP economic efficiency can help you accomplish the following:  
@@ -17,7 +17,9 @@ Capacity planning is essential to avoiding unnecessary downtime due to low capac
 * Identify storage assets in your environment that are showing low capacity.
 * Review assets for current and forecasted capacity.
 * Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
-* Take an assessment of your current working environment and obtain recommendations on tech refresh options that meet your workload, capacity, performance, and budget requirements. 
+* Take an assessment of your current working environment and obtain recommendations on technology refresh options that meet your workload, capacity, performance, and budget requirements. 
+
+image:economic-efficiency-diagram-overview.png[Diagram showing the technology refresh process in BlueXP economic efficiency]
 
 BlueXP economic efficiency identifies storage assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems). If you choose to add capacity, a request with detailed recommendations is forwarded to you and to a NetApp representative. This request includes the details needed to make a capacity selection and order request easy. 
 
