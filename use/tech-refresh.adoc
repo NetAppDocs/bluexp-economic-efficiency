@@ -5,7 +5,7 @@ keywords: economic efficiency, tech refresh, technology update, hardware assessm
 summary: If you have existing assets in place and want to have an assessment to identify whether a technology refresh is recommended, you can use the BlueXP economic efficiency tech refresh option. The process takes an assessment of your current workloads and assets and provides recommendations to you on how to proceed.  
 ---
 
-= Take a tech refresh assessment
+= Get a tech refresh assessment
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/use/
