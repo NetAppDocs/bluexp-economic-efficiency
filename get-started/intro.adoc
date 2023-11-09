@@ -31,7 +31,7 @@ BlueXP economic efficiency can help you accomplish the following goals.
 * Review a list of systems that are nearing end of life or approaching other lifecycle events. 
 * Review an assessment of your current working environment and obtain recommendations on technology refresh options that meet your workload, capacity, performance, and budget requirements. 
 +
-image:economic-efficiency-diagram-overview.png[Diagram of the technology refresh process in BlueXP economic efficiency]
+image:economic-efficiency-diagram-overview2.png[Diagram of the technology refresh process in BlueXP economic efficiency]
 
 
 The service can be accessed in BlueXP under the *Governance* category. 
