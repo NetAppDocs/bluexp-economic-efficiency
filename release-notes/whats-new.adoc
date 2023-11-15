@@ -14,6 +14,10 @@ summary: BlueXP economic efficiency identifies assets with current or forecasted
 Learn what’s new in BlueXP economic efficiency.
 
 //tag::whats-new[]
+
+== 08 November 2023 
+This release of BlueXP economic efficiency includes a new option to take an assessment of your assets and identify whether a technology refresh is recommended. The service includes a new Tech refresh option in the left navigation, new pages where you can take an assessment of your current workloads and assets, and a report that provides recommendations to you. 
+
 == 02 April 2023 
 
 The new BlueXP economic efficiency service identifies storage assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity for on-premises AFF systems.
