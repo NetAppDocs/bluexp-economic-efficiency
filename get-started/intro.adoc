@@ -23,7 +23,7 @@ BlueXP economic efficiency can help you accomplish the following goals.
 * Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
 * Obtain recommendations for capacity expansion relevant to your environment.
 
-
+BlueXP economic efficiency capacity planning applies to on-premises AFF systems only (including unified AFF and all SAN array systems). 
 
 
 *Technology refresh assessment* 
@@ -36,7 +36,7 @@ image:economic-efficiency-diagram-overview2.png[Diagram of the technology refres
 
 The service can be accessed in BlueXP under the *Governance* category. 
 
-BlueXP economic efficiency applies to on-premises AFF systems only (including unified AFF and all SAN array systems). 
+
 
 == Benefits of BlueXP economic efficiency
 
