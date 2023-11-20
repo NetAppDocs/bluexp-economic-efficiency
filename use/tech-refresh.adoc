@@ -5,13 +5,23 @@ keywords: economic efficiency, tech refresh, technology update, hardware assessm
 summary: If you have existing assets in place and want to have an assessment to identify whether a technology refresh is recommended, you can use the BlueXP economic efficiency tech refresh option. The process takes an assessment of your current workloads and assets and provides recommendations to you on how to proceed.  
 ---
 
-= Get a tech refresh assessment
+= Evaluate a technology refresh
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/use/
 
 [.lead]
-If you have existing assets in place and want to have an assessment to identify whether a technology refresh is recommended, you can use the BlueXP economic efficiency tech refresh option. The process takes an assessment of your current workloads and assets and provides recommendations to you on how to proceed. 
+If you have existing assets in place and want to determine whether a technology refresh is recommended, you can use the BlueXP economic efficiency Tech refresh options. You can either take a short assessment of your current workloads and get recommendations or you can perform a workload simulation to see how your workloads perform on new hardware. 
+
+* <<Take a refresh assessment>>
+* <<Simulate workloads on new hardware>>
+
+Systems are considered candidates for a tech refresh based on the following: 
+
+* Nearing the end of the Tech Support contract
+* Nearing the end of the hardware lifecycle
+
+== Take a refresh assessment 
 
 The assessment includes the following steps: 
 
@@ -19,10 +29,7 @@ The assessment includes the following steps:
 * Specify your requirements regarding environments, workload types, capacity, performance, and budget. 
 * View the recommendations regarding appropriate products and cloud services that might improve performance in your environment. 
 
-Systems are considered candidates for a tech refresh based on the following: 
 
-* End of the Tech Support contract approaching
-* End of the hardware lifecycle approaching
 
 .Steps 
 
@@ -31,22 +38,32 @@ Systems are considered candidates for a tech refresh based on the following:
 image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates tab]
 . Look at the *Tech refresh candidates* tab, which lists all the working environments that might benefit from a tech refresh. 
 . Select the working environment on which you want to obtain an assessment. 
-. On the right, select *Evaluate refresh*. 
-. In the Evaluate refresh options, select *Take assessment*. 
+. On the right in the Take action column, select *Evaluate refresh*. 
++ 
+The Evaluate refresh options page shows the refresh assessment and the workload simulation options. 
++
+image:tech-refresh-options.png[Tech refresh options]
+. In the Evaluate refresh options page, select *Take assessment*. 
 . Select the system or systems on which you want the assessment performed and select *Next*. 
-. Select the types of environment that you want: public cloud, hybrid cloud, or on-premises. 
-. Select all the types of workloads that you want to handle: Business critical applications, data lakes and media workflows, secondary storage, less critical workloads, or high performance analytics and computing. 
-. Enter the capacity requirements in TiB, slide the slider to the value, or place your cursor on the value in the slider and select *Next*. 
-. Select the performance aspects that you want to be able to handle: lowest latency, highest IOPS, mixed workloads, or performance not important and select *Next*. 
-. Enter a budget in US dollars, slide the slider to the value, or place your cursor on the value in the slider and select *Next*.
+. Define the requirements: 
+.. *Environments*: Select the types of environment that you want: public cloud, hybrid cloud, or on-premises. 
++
+image:tech-refresh-requirements-environments.png[Tech refresh Requirements page showing environment choices]
+
+.. *Workloads*: Select all the types of workloads that you want to handle: Business critical applications, high performance analytics and computing, data lakes and media workflows, secondary storage, or less critical workloads. 
+.. *Capacity*: Enter the capacity requirements in TiB, slide the slider to the value, or place your cursor on the value in the slider and select *Next*. 
+.. *Performance*: Select the performance aspects that you want to be able to handle: lowest latency, highest IOPS, mixed workloads, or performance not important and select *Next*. 
+.. *Budget*: Enter a budget in US dollars, slide the slider to the value, or place your cursor on the value in the slider and select *Next*.
 +
 A set of recommendations appears in different tabs for the options you chose. 
++
+image:tech-refresh-view-recommendations.png[View refresh assessment recommendations page]
+// Fix screencapture to show "Get refresh recommendations vs View them"
 
 . Review the recommendations. 
-. To download a PDF of the recommendations, select *Download*. 
-. To connect with a NetApp Sales representative regarding the recommendations, select *Contact sales*. 
-+ 
-A web page shows you the options you can choose from to contact a NetApp Sales representative. 
+. Do one or both of the following: 
+.. To download a PDF of the recommendations, select *Download*. 
+.. To connect with a NetApp Sales representative regarding the recommendations, select *Contact NetApp Sales*. A web page shows options you can choose from to contact a NetApp Sales representative. 
 
 
 
@@ -62,5 +79,49 @@ You might want to review the technology refresh assessments that you already too
 + 
 Alternatively, select the row on which "Action taken" appears and select *View* to see that system's details. 
 
-. View the refresh recommendations.  
+. In the Evaluate refresh options page, select *View recommendation*.
+. View the refresh recommendations.
++
+image:tech-refresh-view-recommendations.png[View refresh assessment recommendations page]
 
+
+== Simulate workloads on new hardware 
+
+You can perform a workload simulation to see how your workloads perform on new hardware. 
+
+You can include or exclude specific workloads from the simulation. 
+
+.Steps 
+
+. From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
++
+image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates tab]
+. Look at the *Tech refresh candidates* tab, which lists all the working environments that might benefit from a tech refresh. 
+. Select the working environment on which you want to obtain an assessment. 
+. On the right in the Take action column, select *Evaluate refresh*. 
++ 
+The Evaluate refresh options page shows the refresh assessment and the workload simulation options.
++
+image:tech-refresh-options.png[Tech refresh options]
+
+. In the Evaluate refresh options, select *Simulate workloads*. 
++
+NOTE: The service imports workload details in preparation for the simulation.
+
++
+image:tech-refresh-simulation-requirements.png[Simulate workloads page showing the requirements options]
+. In the Simulate workloads > Workload requirements page, do the following: 
+.. *IOPS*: Enter the IOPs that you want for your new hardware. 
+.. *Capacity in TiB*: Enter the capacity that you want for your new hardware. 
+.. *Include*: To exclude selected workloads, select the *Include* slider on the right. 
++
+TIP: To include previously excluded workloads, select the *Excluded workloads* tab and select the *Include* slider on the right. 
+.. Select *Next*. 
+
+. Review the simulated results on new hardware on the Configuration page: 
++
+image:tech-refresh-simulation-results.png[Simulate workloads page showing the simulation results]
+
+. Do one or both of the following: 
+.. To download a PDF of the recommendations, select *Download*. 
+.. To connect with a NetApp Sales representative regarding the recommendations, select *Contact NetApp Sales*. A web page shows options you can choose from to contact a NetApp Sales representative. 
