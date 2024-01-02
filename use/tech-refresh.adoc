@@ -109,19 +109,31 @@ image:tech-refresh-options.png[Tech refresh options]
 NOTE: The service imports workload details in preparation for the simulation.
 
 +
-image:tech-refresh-simulation-requirements.png[Simulate workloads page showing the requirements options]
+image:tech-refresh-simulation-requirements2.png[Simulate workloads page showing the requirements options]
 . In the Simulate workloads > Workload requirements page, do the following: 
 .. *IOPS*: Enter the IOPs that you want for your new hardware. 
 .. *Capacity in TiB*: Enter the capacity that you want for your new hardware. 
-.. *Include*: To exclude selected workloads, select the *Include* slider on the right. 
+.. *Exclude*: To exclude workloads, select the *Exclude* option in the Actions column. 
 +
-TIP: To include previously excluded workloads, select the *Excluded workloads* tab and select the *Include* slider on the right. 
+TIP: To include previously excluded workloads, select the *Excluded workloads* tab and select the *Include* option on the right. 
 .. Select *Next*. 
 
 . Review the simulated results on new hardware on the Configuration page: 
 +
 image:tech-refresh-simulation-results.png[Simulate workloads page showing the simulation results]
 
-. Do one or both of the following: 
-.. To download a PDF of the recommendations, select *Download*. 
-.. To connect with a NetApp Sales representative regarding the recommendations, select *Contact NetApp Sales*. A web page shows options you can choose from to contact a NetApp Sales representative. 
+. To download a PDF of the recommendations, select *Download*. 
+
+. Select *Next*.
+
+. To connect with a NetApp Sales representative regarding the recommendations, enter contact details. 
+
+. Add special notes for the NetApp Sales Representative. 
+
+. Select *Confirm and submit*. 
+
+.Result
+
+The recommendations from the workload simulation are sent to a NetApp Sales Representative. You will also receive an email confirming the recommendations. A NetApp Sales Representative will respond to your request. 
+
+
