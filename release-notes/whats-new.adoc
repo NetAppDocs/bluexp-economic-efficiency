@@ -16,7 +16,7 @@ Learn what’s new in BlueXP economic efficiency.
 //tag::whats-new[]
 
 == TBD January 2024 
-This release of BlueXP economic efficiency enables you to run a workload simulation of your environment on different hardware to evaluate a technology refresh impact. 
+This release of BlueXP economic efficiency enables you to run a workload simulation of your environment on different hardware to evaluate a technology refresh impact. You can add a workload and exclude existing workloads from the simulation. 
 
 Previously, you could only take an assessment of your assets and identify whether a technology refresh is recommended. 
 

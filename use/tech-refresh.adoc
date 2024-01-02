@@ -89,7 +89,7 @@ image:tech-refresh-view-recommendations.png[View refresh assessment recommendati
 
 You can perform a simulation to see how your workloads perform on new hardware. 
 
-You can include or exclude specific workloads from the simulation. 
+You can include or exclude specific workloads from the simulation. You can also add workloads if they don't appear in the existing workload list. 
 
 .Steps 
 
@@ -111,6 +111,7 @@ NOTE: The service imports workload details in preparation for the simulation.
 +
 image:tech-refresh-simulation-requirements2.png[Simulate workloads page showing the requirements options]
 . In the Simulate workloads > Workload requirements page, do the following: 
+.. To add a workload not already in the list, select *Add workload*. For details, see <<Add a workload>>.
 .. *IOPS*: Enter the IOPs that you want for your new hardware. 
 .. *Capacity in TiB*: Enter the capacity that you want for your new hardware. 
 .. *Exclude*: To exclude workloads, select the *Exclude* option in the Actions column. 
@@ -136,4 +137,28 @@ image:tech-refresh-simulation-results.png[Simulate workloads page showing the si
 
 The recommendations from the workload simulation are sent to a NetApp Sales Representative. You will also receive an email confirming the recommendations. A NetApp Sales Representative will respond to your request. 
 
+== Add a workload 
+You can add a workload that is not already listed to the workload simulation. 
 
+.Steps 
+
+. From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
++
+image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates tab]
+ 
+. Select the working environment. 
+. In the Take action column, select *Evaluate refresh*. 
++ 
+The Evaluate refresh options page shows the refresh assessment and the workload simulation options.
++
+image:tech-refresh-options.png[Tech refresh options]
+
+. In the Evaluate refresh options, select *Simulate workloads*. 
+
++
+image:tech-refresh-simulation-requirements2.png[Simulate workloads page showing the requirements options]
+. In the Simulate workloads > Workload requirements page, select *Add workload*. 
+
+. Select the application, enter a workload name, and select a workload size. 
+
+. Select *Add workload*. 
