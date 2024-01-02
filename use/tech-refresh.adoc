@@ -63,7 +63,7 @@ image:tech-refresh-view-recommendations.png[View refresh assessment recommendati
 . Review the recommendations. 
 . Do one or both of the following: 
 .. To download a PDF of the recommendations, select *Download*. 
-.. To connect with a NetApp Sales representative regarding the recommendations, select *Contact NetApp Sales*. A web page shows options you can choose from to contact a NetApp Sales representative. 
+.. To connect with a NetApp Sales Representative regarding the recommendations, select *Contact NetApp Sales*. A web page shows options you can choose from to contact a NetApp Sales representative. 
 
 
 
@@ -87,7 +87,7 @@ image:tech-refresh-view-recommendations.png[View refresh assessment recommendati
 
 == Simulate workloads on new hardware 
 
-You can perform a workload simulation to see how your workloads perform on new hardware. 
+You can perform a simulation to see how your workloads perform on new hardware. 
 
 You can include or exclude specific workloads from the simulation. 
 
