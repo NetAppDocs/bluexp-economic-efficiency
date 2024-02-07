@@ -1,5 +1,5 @@
 indexpage:
-  lead: Capacity planning is essential to avoiding unnecessary downtime due to low capacity on systems. BlueXP economic efficiency can help you identify clusters that are showing low capacity, review clusters for current and forecasted capacity, and review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
+  lead: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems). The service also provides technology refresh recommendations on systems that are nearing end of life.
   tiles:
   - title: Get started
     #image: ./media/outline_directions_run_black_18dp.png
