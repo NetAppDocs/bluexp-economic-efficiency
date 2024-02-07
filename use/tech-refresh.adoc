@@ -21,6 +21,8 @@ Systems are considered candidates for a tech refresh based on the following:
 * Nearing the end of the Tech Support contract
 * Nearing the end of the hardware lifecycle
 
+TIP: You can access this feature either through BlueXP economic efficiency or through NetApp Digital Advisor. 
+
 == Take a refresh assessment 
 
 The assessment includes the following steps: 
@@ -34,8 +36,6 @@ The assessment includes the following steps:
 .Steps 
 
 . From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
-+
-TIP: You can access this feature either through BlueXP economic efficiency or through NetApp Digital Advisor. This first step indicates how to access the option through BlueXP economic efficiency. 
 +
 image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates tab]
 . Look at the *Tech refresh candidates* tab, which lists all the working environments that might benefit from a tech refresh. 
