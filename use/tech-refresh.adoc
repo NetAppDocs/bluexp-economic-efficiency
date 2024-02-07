@@ -35,6 +35,8 @@ The assessment includes the following steps:
 
 . From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
 +
+TIP: You can access this feature either through BlueXP economic efficiency or through NetApp Digital Advisor. This first step indicates how to access the option through BlueXP economic efficiency. 
++
 image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates tab]
 . Look at the *Tech refresh candidates* tab, which lists all the working environments that might benefit from a tech refresh. 
 . Select the working environment on which you want to obtain an assessment. 
