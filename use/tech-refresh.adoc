@@ -47,7 +47,7 @@ image:tech-refresh-systems.png[Systems to be included in the tech refresh]
 . Define the requirements: 
 .. *Environments*: Select the types of environment that you want: public cloud, hybrid cloud, or on-premises. 
 +
-image:tech-refresh-requirements-environments2.png[Tech refresh Requirements page showing environment choices]
+image:tech-refresh-requirements-environments3.png[Tech refresh Requirements page showing environment choices]
 
 .. *Workloads*: Select all the types of workloads that you want to handle: Business critical applications, high performance analytics and computing, data lakes and media workflows, secondary storage, or less critical workloads. 
 +
