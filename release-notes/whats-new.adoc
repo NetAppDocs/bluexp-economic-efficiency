@@ -15,12 +15,16 @@ Learn what’s new in BlueXP economic efficiency.
 
 //tag::whats-new[]
 
-== January 2024 
+== 13 February 2024 
 This release of BlueXP economic efficiency enables you to run a workload simulation of your environment on different hardware to evaluate a technology refresh impact. You can add a workload and exclude existing workloads from the simulation. 
 
 Previously, you could only take an assessment of your assets and identify whether a technology refresh is recommended. 
 
 The feature is now part of the Tech refresh option in the left navigation. 
+
+Learn more about the link:../use/tech-refresh.html[Evaluate a technology refresh].
+
+//Learn more about the https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html[Evaluate a technology refresh].
 
 == 08 November 2023 
 This release of BlueXP economic efficiency includes a new option to take an assessment of your assets and identify whether a technology refresh is recommended. The service includes a new Tech refresh option in the left navigation, new pages where you can take an assessment of your current workloads and assets, and a report that provides recommendations to you. 
