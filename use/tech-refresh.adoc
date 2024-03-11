@@ -37,7 +37,7 @@ The assessment includes the following steps:
 
 . From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
 +
-image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates]
+image:tech-refresh-list2.png[Tech refresh page showing the Tech refresh candidates]
 . Look at the *Tech refresh candidates* tab, which lists all the working environments that might benefit from a tech refresh. 
 . Select the working environment on which you want to obtain an assessment. 
 . From the Actions column, select *Evaluate refresh*. 
@@ -47,7 +47,7 @@ image:tech-refresh-systems.png[Systems to be included in the tech refresh]
 . Define the requirements: 
 .. *Environments*: Select the types of environment that you want: public cloud, hybrid cloud, or on-premises. 
 +
-image:tech-refresh-requirements-environments.png[Tech refresh Requirements page showing environment choices]
+image:tech-refresh-requirements-environments2.png[Tech refresh Requirements page showing environment choices]
 
 .. *Workloads*: Select all the types of workloads that you want to handle: Business critical applications, high performance analytics and computing, data lakes and media workflows, secondary storage, or less critical workloads. 
 +
@@ -63,7 +63,7 @@ A set of recommendations appears in different tabs for the options you chose.
 
 . Review the recommendations. 
 +
-image:tech-refresh-view-recommendations.png[View refresh assessment recommendations page]
+image:tech-refresh-view-recommendations2.png[View refresh assessment recommendations page]
 . Do one or both of the following: 
 .. To download a PDF of the recommendations, select *Download*. 
 .. To connect with a NetApp Sales Representative regarding the recommendations, select *Contact Sales*. A web page shows options you can choose from to contact a NetApp Sales Representative. 
@@ -83,7 +83,7 @@ You might want to review the technology refresh assessments that you already too
 . In the Evaluate refresh options page, select *View recommendation*.
 . View the refresh recommendations.
 +
-image:tech-refresh-view-recommendations.png[View refresh assessment recommendations page]
+image:tech-refresh-view-recommendations2.png[View refresh assessment recommendations page]
 
 
 == Simulate workloads on new hardware 
@@ -96,7 +96,7 @@ You can include or exclude specific workloads from the simulation. You can also 
 
 . From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
 +
-image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates tab]
+image:tech-refresh-list2.png[Tech refresh page showing the Tech refresh candidates tab]
 . Look at the *Tech refresh candidates* tab, which lists all the working environments that might benefit from a tech refresh. 
 . Select the working environment on which you want to obtain an assessment. 
 . In the Actions column, select *Evaluate refresh*. 
@@ -104,7 +104,7 @@ image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidate
 NOTE: The service imports workload details in preparation for the simulation.
 
 +
-image:tech-refresh-simulation-requirements2.png[Simulate workloads page showing the requirements options]
+image:tech-refresh-simulation-requirements3.png[Simulate workloads page showing the requirements options]
 . In the Simulate workloads > Workload requirements page, do the following: 
 .. To add a workload not already in the list, select *Add workload*. For details, see <<Add a workload>>.
 .. *IOPS*: Optionally, change the IOPs that you want for your new hardware. 
@@ -117,7 +117,7 @@ TIP: To include previously excluded workloads, select the *Excluded workloads* t
 
 . Review the simulated results on new hardware on the Configuration page: 
 +
-image:tech-refresh-simulation-results.png[Simulate workloads page showing the simulation results]
+image:tech-refresh-simulation-results2.png[Simulate workloads page showing the simulation results]
 +
 TIP: The best recommendations are denoted with a "Best" indication. 
 . To download a PDF of the recommendations, select *Download*. 
@@ -142,17 +142,17 @@ You can add a workload that is not already listed to the workload simulation.
 
 . From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
 +
-image:tech-refresh-list.png[Tech refresh page showing the Tech refresh candidates tab]
+image:tech-refresh-list2.png[Tech refresh page showing the Tech refresh candidates tab]
  
 . Select the working environment. 
 . In the Actions column, select *Evaluate refresh*. 
 
 +
-image:tech-refresh-simulation-requirements2.png[Simulate workloads page showing the requirements options]
+image:tech-refresh-simulation-requirements3.png[Simulate workloads page showing the requirements options]
 
 . In the Simulate workloads > Workload requirements page, select *Add workload*. 
 +
-image:tech-refresh-workload-add.png[Add workload page]
+image:tech-refresh-workload-add2.png[Add workload page]
 
 . Select the application, enter a workload name, and select a workload size. 
 
