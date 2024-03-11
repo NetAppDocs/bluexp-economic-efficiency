@@ -78,9 +78,7 @@ You might want to review the technology refresh assessments that you already too
 
 . From the BlueXP left navigation, select *Governance* > *Economic efficiency* > *Tech refresh*. 
 
-. Select the *Tech refresh candidates* tab, which lists all the systems on which you took a technology refresh assessment. Then, select *View action* on the row to see the assessments and recommendations for that system. 
-+ 
-Alternatively, select the row on which "Action taken" appears and select *View* to see that system's details. 
+. Select the *Tech refresh candidates* tab, which lists all the systems on which you took a technology refresh assessment. Then, from the Actions menu on the row for that system, select to view the assessments and recommendations for that system. 
 
 . In the Evaluate refresh options page, select *View recommendation*.
 . View the refresh recommendations.
