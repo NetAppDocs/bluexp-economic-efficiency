@@ -14,6 +14,7 @@ summary: The BlueXP economic efficiency service identifies clusters with current
 [.lead]
 BlueXP economic efficiency assesses two vital areas of your environment: your storage assets with current or forecasted low capacity and your systems that are nearing end of life. The service provides recommendations on data tiering or additional capacity (for AFF systems) and technology refresh options that meet your business needs.  
 
+
 BlueXP economic efficiency can help you accomplish the following goals.  
 
 *Capacity planning*  
@@ -26,15 +27,15 @@ BlueXP economic efficiency can help you accomplish the following goals.
 BlueXP economic efficiency capacity planning applies to on-premises AFF systems only (including unified AFF and all SAN array systems). 
 
 
-*Technology refresh assessment* 
+*Technology refresh assessment and simulation* 
 
+* Perform a simulation of your workloads on new hardware and download the results. 
 * Review a list of systems that are nearing end of life or approaching other lifecycle events. 
 * Review an assessment of your current working environment and obtain recommendations on technology refresh options that meet your workload, capacity, performance, and budget requirements. 
 +
 image:economic-efficiency-diagram-overview2.png[Diagram of the technology refresh process in BlueXP economic efficiency]
 
 
-The service can be accessed in BlueXP under the *Governance* category. 
 
 
 
@@ -42,7 +43,7 @@ The service can be accessed in BlueXP under the *Governance* category.
 
 BlueXP economic efficiency offers the following benefits: 
 
-* Identifies systems that are approaching lifecycle events to help you plan for a technology refresh
+* Identifies systems that are approaching lifecycle events to help you plan for a technology refresh, either by taking a short assessment or performing a workload simulation on new hardware
 * Provides a simple process to obtain additional capacity 
 * Offers a trusted advisor's recommendations to address capacity issues in your environment
 * Reduces the time spent in planning for additional storage
@@ -52,3 +53,7 @@ BlueXP economic efficiency offers the following benefits:
 NetApp doesn’t charge you for using the service. 
 
 If you decide to tier cold data to cloud storage, you’ll need to check your cloud provider for applicable charges.
+
+== Access 
+
+You can access this feature either through BlueXP economic efficiency (*Governance* > *Economic efficiency* > *Tech refresh*) or through NetApp Digital Advisor (*Dashboard* > *Planning widget* > *Tech refresh*). 
