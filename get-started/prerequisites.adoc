@@ -11,7 +11,7 @@ summary: Get started with BlueXP economic efficiency by verifying support for yo
 :imagesdir: ../media/get-started/
 
 [.lead]
-Get started by verifying the readiness of your operational environment, login, network access, and web browser.
+Get started by verifying the readiness of your operational environment, login, and network access.
 
 To use BlueXP economic efficiency, you should ensure that your environment meets all requirements. 
 
