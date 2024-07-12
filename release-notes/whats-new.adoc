@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: release-notes/whats-new.html
 keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions
-summary: BlueXP economic efficiency identifies assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems).
+summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems). The service also provides technology refresh recommendations on systems that are nearing end of life. 
 ---
 
 = What's new
