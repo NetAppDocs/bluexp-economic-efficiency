@@ -15,7 +15,7 @@ Learn what’s new in BlueXP economic efficiency.
 
 //tag::whats-new[]
 
-== May 2024 
+== 15 May 2024 
 Some BlueXP economic efficiency features have been temporarily disabled: 
 
 * Technology refresh
