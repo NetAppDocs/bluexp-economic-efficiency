@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: use/capacity-review-status.html
-keywords: economic efficiency remediate, economic efficiency, capacity planning
+keywords: economic efficiency remediate, economic efficiency, capacity planning, forecast, capacity, storage, 
 summary: If your clusters are currently below or forecasted to be below the threshold of 70% capacity, the economic efficiency service identifies those as low-capacity resources and alerts you.
 ---
 

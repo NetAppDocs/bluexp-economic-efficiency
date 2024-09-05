@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: get-started/intro.html
-keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage, forecast
 summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering. 
 
 ---
