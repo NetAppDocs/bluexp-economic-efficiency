@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: get-started/intro.html
-keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage
-summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems). The service also provides technology refresh recommendations on systems that are nearing end of life. 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage, forecast
+summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering. 
 
 ---
 
@@ -12,7 +12,9 @@ summary: The BlueXP economic efficiency service identifies clusters with current
 :imagesdir: ../media/get-started/
 
 [.lead]
-BlueXP economic efficiency assesses two vital areas of your environment: your storage assets with current or forecasted low capacity and your systems that are nearing end of life. The service provides recommendations on data tiering or additional capacity (for AFF systems) and technology refresh options that meet your business needs.  
+BlueXP economic efficiency assesses your storage assets with current or forecasted low capacity. The service provides recommendations on data tiering options that meet your business needs.  
+
+//BlueXP economic efficiency assesses two vital areas of your environment: your storage assets with current or forecasted low capacity and your systems that are nearing end of life. The service provides recommendations on data tiering or additional capacity (for AFF systems) and technology refresh options that meet your business needs.  
 
 
 BlueXP economic efficiency can help you accomplish the following goals.  
@@ -21,19 +23,19 @@ BlueXP economic efficiency can help you accomplish the following goals.
 
 * Identify storage assets in your environment that are showing low capacity.
 * Review assets for current and forecasted capacity.
-* Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
-* Obtain recommendations for capacity expansion relevant to your environment.
+//* Review CPU utilization, IOPS performance, and latency performance to determine opportunities for capacity remediation.
+//* Obtain recommendations for capacity expansion relevant to your environment.
 
-BlueXP economic efficiency capacity planning applies to on-premises AFF systems only (including unified AFF and all SAN array systems). 
+//BlueXP economic efficiency capacity planning applies to on-premises AFF systems only (including unified AFF and all SAN array systems). 
 
 
-*Technology refresh assessment and simulation* 
+//*Technology refresh assessment and simulation* 
 
-* Perform a simulation of your workloads on new hardware and download the results. 
-* Review a list of systems that are nearing end of life or approaching other lifecycle events. 
-* Review an assessment of your current working environment and obtain recommendations on technology refresh options that meet your workload, capacity, performance, and budget requirements. 
-+
-image:economic-efficiency-diagram-overview2.png[Diagram of the technology refresh process in BlueXP economic efficiency]
+//* Perform a simulation of your workloads on new hardware and download the results. 
+//* Review a list of systems that are nearing end of life or approaching other lifecycle events. 
+//* Review an assessment of your current working environment and obtain recommendations on technology refresh options that meet your workload, capacity, performance, and budget requirements. 
+//+
+//image:economic-efficiency-diagram-overview2.png[Diagram of the technology refresh process in BlueXP economic efficiency]
 
 
 
@@ -43,8 +45,9 @@ image:economic-efficiency-diagram-overview2.png[Diagram of the technology refres
 
 BlueXP economic efficiency offers the following benefits: 
 
-* Identifies systems that are approaching lifecycle events to help you plan for a technology refresh, either by taking a short assessment or performing a workload simulation on new hardware
-* Provides a simple process to obtain additional capacity 
+* Identifies systems that are approaching lifecycle events to help you plan for a technology refresh
+//* Identifies systems that are approaching lifecycle events to help you plan for a technology refresh, either by taking a short assessment or performing a workload simulation on new hardware
+//* Provides a simple process to obtain additional capacity 
 * Offers a trusted advisor's recommendations to address capacity issues in your environment
 * Reduces the time spent in planning for additional storage
 
