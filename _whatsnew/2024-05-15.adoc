@@ -1,0 +1,5 @@
+=== Disable features
+Some BlueXP economic efficiency features have been temporarily disabled: 
+
+* Technology refresh
+* Add capacity
