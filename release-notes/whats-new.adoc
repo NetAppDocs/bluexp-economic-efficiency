@@ -29,7 +29,7 @@ include::_whatsnew/2023-11-08.adoc[]
 
 == 02 April 2023 
 
-=== TBD
+=== Introducing BlueXP economic efficiency
 The new BlueXP economic efficiency service identifies storage assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity for on-premises AFF systems.
 
 link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html[Learn more about BlueXP economic efficiency]. 
