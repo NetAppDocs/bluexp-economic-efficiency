@@ -13,7 +13,7 @@ summary: The BlueXP economic efficiency service identifies clusters with current
 [.lead]
 Learn what’s new in BlueXP economic efficiency.
 
-
+// tag::whats-new[]
 == 15 May 2024 
 
 include::_whatsnew/2024-05-15.adoc[]
@@ -26,6 +26,7 @@ include::_whatsnew/2024-03-14.adoc[]
 == 08 November 2023 
 
 include::_whatsnew/2023-11-08.adoc[]
+// end::whats-new[]
 
 == 02 April 2023 
 
