@@ -21,7 +21,7 @@ Systems are considered candidates for a tech refresh based on the following:
 * Nearing the end of the Tech Support contract
 * Nearing the end of the hardware lifecycle
 
-TIP: You can access this feature either through BlueXP economic efficiency or through NetApp Digital Advisor. 
+TIP: You can access this feature either through BlueXP economic efficiency or through Digital Advisor. 
 
 == Take a refresh assessment 
 
