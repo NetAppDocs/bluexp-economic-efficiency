@@ -15,7 +15,7 @@ You use NetApp BlueXP to log in to the economic efficiency service.
 
 To log in to BlueXP, you can use your NetApp Support Site credentials or you can sign up for a NetApp cloud login using your email and a password. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html[Learn more about logging in^].
 
-TIP: You can access this feature either through BlueXP economic efficiency (*Governance* > *Economic efficiency* > *Tech refresh*) or through NetApp Digital Advisor (*Dashboard* > *Planning widget* > *Tech refresh*). 
+TIP: You can access this feature either through BlueXP economic efficiency (*Governance* > *Economic efficiency* > *Tech refresh*) or through Digital Advisor (*Dashboard* > *Planning widget* > *Tech refresh*). 
 
 .Steps
 
