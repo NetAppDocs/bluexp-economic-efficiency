@@ -59,4 +59,4 @@ If you decide to tier cold data to cloud storage, you’ll need to check your cl
 
 == Access 
 
-You can access this feature either through BlueXP economic efficiency (*Governance* > *Economic efficiency* > *Tech refresh*) or through NetApp Digital Advisor (*Dashboard* > *Planning widget* > *Tech refresh*). 
+You can access this feature either through BlueXP economic efficiency (*Governance* > *Economic efficiency* > *Tech refresh*) or through Active IQ Digital Advisor (also known as Digital Advisor) (*Dashboard* > *Planning widget* > *Tech refresh*). 
