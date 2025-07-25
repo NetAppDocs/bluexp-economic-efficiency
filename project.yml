@@ -1,6 +1,5 @@
 settings:
   name: "BlueXP economic efficiency"
-  platform: cloud
   internal:
     pdf_enabled: true
   prod:
